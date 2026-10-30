@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+crash.log
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.log
