@@ -27,3 +27,14 @@ Bash scripting, Git, Docker, CI/CD, Terraform and Azure.
 - [ ] Docker
 - [ ] CI/CD pipeline
 - [ ] Azure deployment
+
+## Linux Administration
+
+This project includes hands-on exercises covering:
+
+- Linux file permissions
+- Process management
+- Systemd services
+- Linux networking
+- Bash scripting
+- Nginx monitoring
